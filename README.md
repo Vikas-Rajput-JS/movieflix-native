@@ -15,9 +15,6 @@
 
   <h3 align="center">A Movie Finding App with Extensive Search</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -50,9 +47,8 @@ Built with Expo, TypeScript, and Tailwind CSS, this app fetches movies and creat
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+
 
 - Expo
 
@@ -98,7 +94,6 @@ Make sure you have the following installed on your machine:
 
 ```bash
 
-git clone https://github.com/adrianhajdin/rn-movie-app.git
 
 cd rn-movie-app
 
@@ -273,10 +268,6 @@ interface TrendingCardProps {
 
 </details>
 
-## <a name="links">🔗 Assets</a>
-
-- Assets used in the project can be found [here](https://drive.google.com/file/d/1_8eNj07rNS7B-JyCZ-lj1GtRYG03Ye-M/view)
-
 ## <a name="more">🚀 More</a>
 
 **Advance your skills with Next.js Pro Course**
@@ -285,8 +276,6 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://jsmastery.pro/next15" target="_blank">
 
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
 
 </a>
